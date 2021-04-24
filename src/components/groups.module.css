@@ -1,0 +1,10 @@
+.Table {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+}
+
+.CreateButton {
+    height: 50px;
+    width: 200px;
+}

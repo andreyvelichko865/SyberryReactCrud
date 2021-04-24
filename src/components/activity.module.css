@@ -1,0 +1,20 @@
+.Table{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+input {
+    height: 20px;
+}
+
+.Do {
+    margin-top: 35px;
+}
+
+.Create {
+    padding-top: 30px;
+}
+
+.Activity p {
+    margin-top: 20px;
+}
